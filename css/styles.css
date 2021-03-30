@@ -552,6 +552,7 @@ ul.list.clients-section-list {
 
 .footer-structure {
   display: flex;
+  align-items: baseline;
 }
 
 .join {
